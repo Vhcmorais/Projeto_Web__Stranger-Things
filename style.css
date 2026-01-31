@@ -411,6 +411,7 @@ footer {
             }
 
             h1 {
+                font-family: 'Benguiat', sans-serif;
                 font-size: 12vw;
             }
         }
@@ -543,6 +544,7 @@ footer {
         }
 
         .textoInfinito {
+            font-family: 'Benguiat', sans-serif;
             font-size: 25vw;
         }
     }
