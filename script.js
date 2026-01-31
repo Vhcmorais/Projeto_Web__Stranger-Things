@@ -1,4 +1,3 @@
-// BIBLIOTECA GSAP
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
 
 ScrollSmoother.create({
@@ -7,7 +6,7 @@ ScrollSmoother.create({
 });
 
 function animarPagina(){
-    // ANIMAÇÃO HERO
+// ANIMAÇÃO HERO
 gsap.from(".hero", {
   opacity: 0,
   duration: 0.7,
@@ -34,7 +33,6 @@ gsap.from(".card", {
     start: "0% 80%",
     end: "100% 80%",
     scrub: true,
-    //markers: true ---> para facilitar ajustes
   },
 });
 
