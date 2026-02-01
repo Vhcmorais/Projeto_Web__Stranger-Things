@@ -1,4 +1,4 @@
-# 🚲 Stranger Things The Experience — Workshop DevArt (2025)
+# 🚲 Stranger Things: The Experience — Workshop DevArt (2025)
 
 ---
 
@@ -43,16 +43,16 @@ O objetivo principal foi praticar a estruturação de layouts responsivos (**Des
 
 ## ✅ Resultado
 
-[Insira aqui um GIF ou Imagem do site rodando no PC e no Celular]
+![*Figura 1 — Visualização da Interface Desktop.*](imagens/site_pc.jpeg).
+![*Figura 2 — Visualização da Interface Mobile.*](imagens/site_mobile).
 
-*Figura 1 — Visualização da Interface Responsiva.*
-
+Acesse o projeto em: stgthings.vercel.app
 ---
 
 ## </> Desenvolvimento
 
-📘 **Autor:** [Vitor Henrique Morais](https://github.com/seu-usuario)
+📘 **Autor:** [Vitor Henrique Morais](https://github.com/Vhcmorais)
 👨‍🏫 **Tutoria:** Gustavo Campelo (Workshop DevArt)
 💻 **Contexto:** Estudos de Front-end e UI/UX
 
-![Stranger Things Footer Image](https://fontmeme.com/permalink/250201/stranger-things-font-image-url.png)
+![Stranger Things Footer Image](imagens/bg-2.webp)
