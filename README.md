@@ -21,9 +21,9 @@ O objetivo principal foi praticar a estruturação de layouts responsivos (**Des
 ## 🛠 Tecnologias Utilizadas
 
 * 1 × Estrutura semântica em **HTML5**
-* 1 × Estilização avançada com **CSS3** (Flexbox/Grid)
-* 1 × Interatividade com **JavaScript (ES6+)**
-* 1 × Biblioteca de animações **GSAP (GreenSock)**
+* 1 × Estilização avançada com **CSS3**
+* 1 × Interatividade com **JavaScript**
+* 1 × Biblioteca de animações **GSAP**
 * 1 × Fontes personalizadas (**Stranger Things Font**)
 * Design Responsivo (**Media Queries**)
 
