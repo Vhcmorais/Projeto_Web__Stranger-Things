@@ -1,58 +1,80 @@
-# 🚲 Stranger Things: The Experience — Workshop DevArt (2025)
+# 🚲 Stranger Things: The Experience — DevArt Workshop (2025)
+
+🎬 This repository showcases a web development study project focused on creating an immersive and responsive user interface. The project was developed during the **DevArt Stranger Things Workshop**, under the mentorship of developer **Gustavo Campelo**.
+
+The website simulates a promotional page for a fictional Stranger Things-inspired experience, designed to provide an engaging experience on both desktop and mobile devices.
 
 ---
 
-🎬 Este repositório apresenta o projeto desenvolvido para fins de **estudo de desenvolvimento web**, focado na criação de uma interface imersiva e responsiva. O projeto foi realizado durante o workshop **DevArt Stranger Things**, sob tutoria do desenvolvedor **Gustavo Campelo**.
+## 💡 About the Project
 
-O site simula uma página de divulgação de uma experiência fictícia baseada na série, adaptada tanto para dispositivos móveis quanto para computadores.
+The project was centered around the following theme:
 
----
+> **Development of an Immersive and Responsive Landing Page with Advanced Animations**
 
-## 💡 Sobre o Projeto
-
-O projeto teve como tema central:
-
-> "Desenvolvimento de uma Landing Page Imersiva e Responsiva com Animações Avançadas"
-
-O objetivo principal foi praticar a estruturação de layouts responsivos (**Desktop First** e adaptação para Mobile) e a implementação de animações fluidas para melhorar a experiência do usuário, utilizando tecnologias nativas da web e bibliotecas de animação.
+The main goal was to practice building responsive layouts using a **Desktop-First** approach and adapting them for mobile devices, while implementing smooth animations to enhance the overall user experience.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
-* 1 × Estrutura semântica em **HTML5**
-* 1 × Estilização avançada com **CSS3**
-* 1 × Interatividade com **JavaScript**
-* 1 × Biblioteca de animações **GSAP**
-* 1 × Fontes personalizadas (**Stranger Things Font**)
-* Design Responsivo (**Media Queries**)
-
----
-
-## 📂 Estrutura do Repositório
-
-| Arquivo/Pasta | Descrição |
-| :--- | :--- |
-| `index.html` | Arquivo principal com a estrutura semântica da página web |
-| `styles.css` | Folha de estilos contendo o layout, cores, tipografia e responsividade |
-| `script.js` | Lógica de programação e controle das animações com GSAP |
-| `./imagens` | Pasta contendo os assets visuais (backgrounds, logos, personagens) |
-| `./fontes` | Pasta com os arquivos de tipografia utilizados no projeto |
+- HTML5
+- CSS3
+- JavaScript
+- GSAP (GreenSock Animation Platform)
+- Custom Fonts (Stranger Things Font)
+- Responsive Design with Media Queries
 
 ---
 
-## ✅ Resultado
+## 📂 Repository Structure
 
-![*Figura 1 — Visualização da Interface Desktop.*](imagens/site_pc.jpeg).
-![*Figura 2 — Visualização da Interface Mobile.*](imagens/site_mobile).
+| File/Folder | Description |
+|------------|-------------|
+| `index.html` | Main webpage structure |
+| `styles.css` | Styling, typography, colors, and responsiveness |
+| `script.js` | Interactivity and GSAP animations |
+| `imagens/` | Visual assets such as backgrounds, logos, and characters |
+| `fontes/` | Custom font files |
 
-Acesse o projeto em: stgthings.vercel.app
 ---
 
-## </> Desenvolvimento
+## ✅ Project Preview
 
-📘 **Autor:** [Vitor Henrique Morais](https://github.com/Vhcmorais)
-👨‍🏫 **Tutoria:** Gustavo Campelo (Workshop DevArt)
-💻 **Contexto:** Estudos de Front-end e UI/UX
+### Desktop Version
 
-![Stranger Things Footer Image](imagens/bg-2.webp)
+![Desktop Interface Preview](imagens/site_pc.jpeg)
+
+### Mobile Version
+
+![Mobile Interface Preview](imagens/site_mobile.jpeg)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Visit the project:** https://stgthings.vercel.app
+
+---
+
+## 🎯 Learning Objectives
+
+- Build responsive web interfaces.
+- Practice modern CSS layout techniques.
+- Create engaging animations with GSAP.
+- Improve front-end development skills.
+- Explore UI/UX design principles.
+
+---
+
+## 👨‍💻 Development
+
+**Author:** [Vitor Henrique Morais](https://github.com/Vhcmorais)
+
+**Mentorship:** Gustavo Campelo (DevArt Workshop)
+
+**Context:** Front-End Development and UI/UX Studies
+
+---
+
+![Stranger Things Banner](imagens/bg-2.webp)
